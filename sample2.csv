@@ -1,0 +1,15 @@
+assetname,assetversion,assetowner,currentversion,assetpurchasedate,assetexpirationdate,assetlicenceemail,assetquantity,asset_id
+Software1,Version2.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,123,1
+Software1,Version3.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,456,1
+Software2,Version2.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,789,2
+Software2,Version3.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,123,2
+Software3,Version2.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,456,3
+Software3,Version3.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,789,3
+Software4,Version2.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,123,4
+Software4,Version3.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,456,4
+Software5,Version2.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,789,5
+Software5,Version3.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,123,5
+Software6,Version2.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,345,6
+Software6,Version3.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,567,6
+Software7,Version2.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,678,7
+Software7,Version3.0,Owner,1,11/18/2025,11/18/2026,some@Email.com,789,7
